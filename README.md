@@ -20,14 +20,23 @@ Sumber: Kaggle
 👉 https://drive.google.com/drive/folders/1f6kIoWCbsprKAdfPmzpNeNj7QlGNH7S6?usp=drive_link
 
 ⚙️ Metode
+
 Ekstraksi fitur:
+
 RGB & HSV
+
 Tekstur GLCM
+
 Split data: 70% training, 30% testing
+
 Normalisasi: StandardScaler
+
 Model: KNN (k=5)
+
 📈 Hasil
+
 Akurasi: 63.33%
+
 🔗 Link Proyek
 
 💻 Colab: https://colab.research.google.com/drive/14R52ZP2_sp5pBNZEJhTlXWknquk_0Tho?usp=drive_link
