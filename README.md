@@ -26,6 +26,7 @@ Model: KNN (k=5)
 📈 Hasil
 Akurasi: 63.33%
 🔗 Link Proyek
+
 💻 Colab: https://colab.research.google.com/drive/14R52ZP2_sp5pBNZEJhTlXWknquk_0Tho?usp=drive_link
 
 📑 PPT: https://drive.google.com/file/d/1u894SZ_WT5Z2EW187dyPRFI_xv3cBAy9/view?usp=drive_link
