@@ -1,10 +1,13 @@
 📘 Potato Leaf Disease Classification (KNN)
+
 📖 Deskripsi
 
 Proyek ini bertujuan untuk mengklasifikasikan daun kentang menjadi:
 
 Healthy
+
 Early Blight
+
 Late Blight
 
 menggunakan metode K-Nearest Neighbors (KNN) berdasarkan fitur warna dan tekstur citra.
